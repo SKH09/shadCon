@@ -2,7 +2,7 @@ import "./App.css";
 import { Label } from "./components/ui/label";
 import { Input } from "./components/ui/input";
 import { RadioGroup, RadioGroupItem } from "./components/ui/radio-group";
-import { Checkbox } from "./components/ui/checkbox";clear
+import { Checkbox } from "./components/ui/checkbox";
 import { Button } from "./components/ui/button";
 function App() {
   return (
